@@ -1,0 +1,14 @@
+body {
+    background-color: #ffffff;
+}
+
+#divEncryptfile {
+    margin-top: 200px;
+    border-radius: 20px;
+    padding: 30px;
+    background-color: #e8bff5;
+}
+
+.divTableBody {
+    background-color: white;
+}
